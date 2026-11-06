@@ -1,0 +1,46 @@
+\documentclass[12pt,a4paper,oneside]{book}
+\usepackage{fontspec}
+\setmainfont{Arial}
+\usepackage[top=30mm,bottom=20mm,left=30mm,right=20mm]{geometry}
+\usepackage{setspace}
+\onehalfspacing
+\setlength{\parindent}{12.5mm}
+\setlength{\parskip}{0pt}
+\usepackage{graphicx}
+\usepackage{caption}
+\captionsetup[figure]{position=above,font=small}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\usepackage[hidelinks]{hyperref}
+\title{Publication Title}
+\author{Author Name}
+\date{2026}
+
+\begin{document}
+\frontmatter
+\maketitle
+\tableofcontents
+\listoffigures
+\mainmatter
+
+\chapter{Opening Chapter}
+\label{chapter:opening}
+
+Replace this example with the reviewed manuscript. A precise explanatory note can use a footnote.\footnote{Replace this note with necessary supporting context.}
+
+\section{A Section}
+
+Use stable labels and actual citations. Chapter~\ref{chapter:opening} is linked to its destination.
+
+\backmatter
+\chapter*{References}
+\addcontentsline{toc}{chapter}{References}
+
+Replace this paragraph with verified bibliographic entries in the selected style.
+
+\end{document}

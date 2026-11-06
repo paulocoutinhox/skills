@@ -1,0 +1,24 @@
+name: Bug report
+description: Report an incorrect instruction, broken helper, or installation failure.
+title: '[bug] '
+body:
+  - type: input
+    id: skill
+    attributes:
+      label: Skill or utility
+      description: Name the affected skill and client or command.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction and expected result
+      description: Include exact commands, versions, and a minimal sanitized example. Remove private data and credentials.
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual result
+    validations:
+      required: true
