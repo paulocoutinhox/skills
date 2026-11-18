@@ -1,0 +1,91 @@
+\documentclass[12pt,a4paper,twoside,openright]{book}
+\usepackage[english]{babel}
+\usepackage{fontspec}
+\setmainfont{Arial}
+\usepackage{microtype}
+\usepackage[top=30mm,bottom=20mm,inner=30mm,outer=20mm]{geometry}
+\usepackage{setspace}
+\onehalfspacing
+\usepackage{indentfirst}
+\setlength{\parindent}{12.5mm}
+\setlength{\parskip}{0pt}
+\widowpenalty=10000
+\clubpenalty=10000
+\raggedbottom
+\usepackage{graphicx}
+\usepackage{caption}
+\captionsetup{position=above,font=small,justification=centering}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\usepackage[hidelinks]{hyperref}
+\hypersetup{pdftitle={PLACEHOLDER Title},pdfauthor={PLACEHOLDER Author Name},pdflang={en},pdfcreator={},pdfproducer={}}
+\pdfvariable suppressoptionalinfo 145
+\makeatletter
+\renewcommand{\cleardoublepage}{\clearpage\if@twoside\ifodd\c@page\else\hbox{}\thispagestyle{empty}\newpage\fi\fi}
+\makeatother
+
+\begin{document}
+\frontmatter
+
+\thispagestyle{empty}
+\begin{center}
+\vspace*{40mm}
+{\Large PLACEHOLDER Author Name\par}
+\vspace{30mm}
+{\huge\bfseries PLACEHOLDER Title\par}
+\vspace{6mm}
+{\Large PLACEHOLDER Subtitle\par}
+\vfill
+{\large PLACEHOLDER Publisher or City\par}
+{\large PLACEHOLDER Year\par}
+\end{center}
+\clearpage
+
+\thispagestyle{empty}
+\vspace*{\fill}
+\noindent Copyright \textcopyright{} PLACEHOLDER Year PLACEHOLDER Author Name. All rights reserved.
+
+\noindent ISBN PLACEHOLDER verified ISBN-13
+
+\noindent PLACEHOLDER edition, publisher and cataloging data supplied by the author or publisher.
+\clearpage
+
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushright}
+\itshape PLACEHOLDER Dedication.
+\end{flushright}
+\clearpage
+
+\chapter*{Acknowledgments}
+PLACEHOLDER Acknowledgments written by the author.
+
+\tableofcontents
+\listoffigures
+\listoftables
+
+\mainmatter
+
+\chapter{Introduction}
+\label{chapter:introduction}
+
+PLACEHOLDER Reviewed manuscript text. Body paragraphs are justified to both margins by default, with hyphenation from the selected babel language.\footnote{PLACEHOLDER Explanatory note.}
+
+\section{PLACEHOLDER Section}
+
+PLACEHOLDER Text with real citations. Chapter~\ref{chapter:introduction} links to its destination.
+
+\backmatter
+\chapter*{\bibname}
+\addcontentsline{toc}{chapter}{\bibname}
+
+{\raggedright
+PLACEHOLDER Verified bibliographic entries in the selected style.
+\par}
+
+\end{document}
