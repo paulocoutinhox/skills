@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">kaktos-site</title>
+  <g transform="scale(2)">
+    <g transform="translate(22 51) scale(1.06 1.089655172413793)">
+    <rect x="0" y="0" width="200" height="145" rx="18" fill="#253857"/>
+    <rect x="8" y="34" width="184" height="103" rx="9" fill="#EAF2FF"/>
+    <path d="M18 0H182Q200 0 200 18V34H0V18Q0 0 18 0Z" fill="#0CB9B0"/>
+    <circle cx="16" cy="17" r="4" fill="#FFFFFF"/>
+    <circle cx="29" cy="17" r="4" fill="#FFFFFF"/>
+    <circle cx="42" cy="17" r="4" fill="#FFFFFF"/>
+    </g>
+    <path d="M112 149V95a15 15 0 0 1 30 0v54h14q13 0 13-14v-17a11 11 0 0 1 22 0v17q0 37-35 37h-14v14h-30v-35H95q-30 0-30-28v-14a11 11 0 0 1 22 0v14q0 6 8 6h17Z" fill="#36C982"/>
+    <path d="M126 81a15 15 0 0 1 16 14v91h-16Z" fill="#0CB9B0"/>
+    <path d="M101 174h52l-7 24h-38Z" fill="#FF9C4A"/>
+    <g transform="translate(203 93) scale(0.5)">
+    <path d="M0-22Q4-4 22 0Q4 4 0 22Q-4 4-22 0Q-4-4 0-22Z" fill="#FFD36A"/>
+    </g>
+  </g>
+</svg>

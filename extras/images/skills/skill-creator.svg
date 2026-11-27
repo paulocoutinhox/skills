@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">skill-creator</title>
+  <g transform="scale(2)">
+    <g transform="translate(-4 -2)">
+    <rect x="48" y="47" width="139" height="152" rx="22" fill="#397AF5"/>
+    <rect x="60" y="59" width="115" height="128" rx="13" fill="#EAF2FF"/>
+    <rect x="77" y="80" width="59" height="10" rx="5" fill="#66C9FF"/>
+    <rect x="77" y="100" width="77" height="8" rx="4" fill="#8AA6C8"/>
+    <rect x="77" y="119" width="49" height="8" rx="4" fill="#8AA6C8"/>
+    <rect x="77" y="138" width="61" height="8" rx="4" fill="#8AA6C8"/>
+    <g transform="translate(173 135) rotate(39)">
+    <rect x="-10" y="-64" width="20" height="111" rx="7" fill="#885AF5"/>
+    <path d="M-10 47H10L0 66Z" fill="#253857"/>
+    <rect x="-10" y="-64" width="20" height="24" rx="7" fill="#F46E9D"/>
+    </g>
+    <g transform="translate(190 46) scale(1.05)">
+    <path d="M0-22Q4-4 22 0Q4 4 0 22Q-4 4-22 0Q-4-4 0-22Z" fill="#FFD36A"/>
+    </g>
+    <g transform="translate(211 84) scale(0.58)">
+    <path d="M0-22Q4-4 22 0Q4 4 0 22Q-4 4-22 0Q-4-4 0-22Z" fill="#0CB9B0"/>
+    </g>
+    <g transform="translate(39 174) scale(0.65)">
+    <path d="M0-22Q4-4 22 0Q4 4 0 22Q-4 4-22 0Q-4-4 0-22Z" fill="#F46E9D"/>
+    </g>
+    </g>
+  </g>
+</svg>

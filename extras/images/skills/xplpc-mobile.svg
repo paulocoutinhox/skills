@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">xplpc-mobile</title>
+  <g transform="scale(2)">
+    <g transform="translate(25 54) scale(0.8452380952380952 0.972972972972973)">
+    <rect x="0" y="0" width="84" height="148" rx="17" fill="#253857"/>
+    <rect x="7" y="9" width="70" height="130" rx="12" fill="#397AF5"/>
+    <rect x="27" y="13" width="30" height="5" rx="3" fill="#253857"/>
+    <rect x="30" y="130" width="24" height="4" rx="2" fill="#FFFFFF"/>
+    </g>
+    <g transform="translate(160 54) scale(0.8452380952380952 0.972972972972973)">
+    <rect x="0" y="0" width="84" height="148" rx="17" fill="#253857"/>
+    <rect x="7" y="9" width="70" height="130" rx="12" fill="#0CB9B0"/>
+    <rect x="27" y="13" width="30" height="5" rx="3" fill="#253857"/>
+    <rect x="30" y="130" width="24" height="4" rx="2" fill="#FFFFFF"/>
+    </g>
+    <g transform="translate(61 123) scale(0.43)">
+    <path d="M-30-19-50 0l20 19" fill="none" stroke="#66C9FF" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M30-19 50 0 30 19" fill="none" stroke="#68E2BC" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M11-29-11 29" fill="none" stroke="#F46E9D" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <g transform="translate(195 123) scale(0.43)">
+    <path d="M-30-19-50 0l20 19" fill="none" stroke="#66C9FF" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M30-19 50 0 30 19" fill="none" stroke="#68E2BC" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M11-29-11 29" fill="none" stroke="#F46E9D" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <path d="M94 104h66M94 155h66" fill="none" stroke="#885AF5" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M146 92l17 12-17 12ZM110 143l-17 12 17 12Z" fill="#885AF5"/>
+    <circle cx="128" cy="129" r="24" fill="#253857"/>
+    <path d="M128 111l16 9v18l-16 9-16-9v-18Z" fill="#66C9FF"/>
+    <path d="M128 111l16 9-16 9-16-9Z" fill="#FFFFFF"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">book-creator</title>
+  <g transform="scale(2)">
+    <path d="M25 62Q78 42 128 77Q178 42 231 62V196Q180 181 128 213Q76 181 25 196Z" fill="#397AF5"/>
+    <path d="M36 51Q84 38 128 72V199Q85 166 36 182Z" fill="#EAF2FF"/>
+    <path d="M128 72Q172 38 220 51V182Q171 166 128 199Z" fill="#FFFFFF"/>
+    <path d="M128 74V197" fill="none" stroke="#66C9FF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M52 83q31-3 58 13M52 104q31-3 58 13M52 125q31-3 58 13M147 97q26-16 57-14M147 118q26-16 57-14M147 139q26-16 57-14" fill="none" stroke="#8AA6C8" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M178 49h23v61l-11-9-12 9Z" fill="#F46E9D"/>
+    <g transform="translate(219 42) scale(0.6)">
+    <path d="M0-22Q4-4 22 0Q4 4 0 22Q-4 4-22 0Q-4-4 0-22Z" fill="#FFD36A"/>
+    </g>
+  </g>
+</svg>

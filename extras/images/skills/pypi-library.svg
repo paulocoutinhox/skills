@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">pypi-library</title>
+  <g transform="scale(2)">
+    <g transform="translate(128 119) scale(1.08)">
+    <path d="M0-67 78-27 0 14-78-27Z" fill="#66C9FF"/>
+    <path d="M-78-27 0 14V88L-78 47Z" fill="#397AF5"/>
+    <path d="M78-27 0 14V88L78 47Z" fill="#885AF5"/>
+    <path d="M-38-48 40-7 21 3-57-38Z" fill="#FFFFFF" opacity=".65"/>
+    </g>
+    <path d="M75 45h42q21 0 21 21v23H92q-17 0-17 17v17H54q-21 0-21-21V89q0-21 21-21h21Z" fill="#397AF5"/>
+    <path d="M181 100h21q21 0 21 21v13q0 21-21 21h-21v23h-42q-21 0-21-21v-23h46q17 0 17-17Z" fill="#FFD36A"/>
+    <circle cx="94" cy="58" r="5" fill="#FFFFFF"/>
+    <circle cx="162" cy="165" r="5" fill="#FFFFFF"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+name: Skill request
+description: Propose a focused capability or an improvement to an existing skill.
+body:
+  - type: textarea
+    id: outcome
+    attributes:
+      label: User outcome
+      description: Describe a realistic request and the artifact or behavior that would satisfy it.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Requirements and sources
+      description: Include relevant official documentation, constraints, examples, and boundaries.

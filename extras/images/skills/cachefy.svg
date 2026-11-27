@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">cachefy</title>
+  <g transform="scale(2)">
+    <path d="M46 68V177C46 219 210 219 210 177V68Z" fill="#397AF5"/>
+    <ellipse cx="128" cy="177" rx="82" ry="30" fill="#397AF5"/>
+    <path d="M46 109v33c0 40 164 40 164 0v-33c0 40-164 40-164 0Z" fill="#0CB9B0"/>
+    <path d="M46 68v39c0 40 164 40 164 0V68Z" fill="#66C9FF"/>
+    <ellipse cx="128" cy="68" rx="82" ry="30" fill="#EAF2FF"/>
+    <ellipse cx="128" cy="68" rx="59" ry="18" fill="#66C9FF"/>
+    <path d="M165 89l-42 60h29l-10 48 51-68h-32Z" fill="#FFD36A"/>
+    <circle cx="67" cy="128" r="5" fill="#FFFFFF"/>
+    <circle cx="67" cy="171" r="5" fill="#FFFFFF"/>
+  </g>
+</svg>

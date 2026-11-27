@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">web-app-testing</title>
+  <g transform="scale(2)">
+    <g transform="translate(20 45) scale(1.08 1.1310344827586207)">
+    <rect x="0" y="0" width="200" height="145" rx="18" fill="#253857"/>
+    <rect x="8" y="34" width="184" height="103" rx="9" fill="#EAF2FF"/>
+    <path d="M18 0H182Q200 0 200 18V34H0V18Q0 0 18 0Z" fill="#397AF5"/>
+    <circle cx="16" cy="17" r="4" fill="#FFFFFF"/>
+    <circle cx="29" cy="17" r="4" fill="#FFFFFF"/>
+    <circle cx="42" cy="17" r="4" fill="#FFFFFF"/>
+    </g>
+    <rect x="39" y="89" width="82" height="94" rx="9" fill="#FFFFFF"/>
+    <rect x="49" y="100" width="62" height="29" rx="6" fill="#66C9FF"/>
+    <rect x="49" y="139" width="47" height="7" rx="4" fill="#8AA6C8"/>
+    <rect x="49" y="153" width="55" height="7" rx="4" fill="#8AA6C8"/>
+    <rect x="132" y="91" width="79" height="33" rx="7" fill="#C3ADFF"/>
+    <path d="M145 107h10M162 107h36" fill="none" stroke="#885AF5" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="translate(183 169) scale(1.4)">
+    <circle cx="0" cy="0" r="30" fill="#0CB9B0"/>
+    <path d="M-13 0l9 10 18-21" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+</svg>

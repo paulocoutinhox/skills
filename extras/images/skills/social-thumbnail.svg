@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">social-thumbnail</title>
+  <g transform="scale(2)">
+    <rect x="23" y="47" width="210" height="156" rx="19" fill="#253857"/>
+    <rect x="31" y="55" width="194" height="140" rx="12" fill="#66C9FF"/>
+    <circle cx="75" cy="91" r="22" fill="#FFD36A"/>
+    <path d="M32 173l54-62 47 42 34-39 58 58v11q0 12-12 12H43q-12 0-12-12Z" fill="#0CB9B0"/>
+    <path d="M32 173l54-62 47 42 16-18 62 60H43q-12 0-12-12Z" fill="#36C982"/>
+    <rect x="126" y="67" width="85" height="15" rx="5" fill="#FFFFFF"/>
+    <rect x="139" y="89" width="72" height="10" rx="5" fill="#FFFFFF"/>
+    <circle cx="200" cy="182" r="32" fill="#FF9C4A"/>
+    <path d="M192 164l24 18-24 18Z" fill="#FFFFFF"/>
+    <g transform="translate(228 42) scale(0.55)">
+    <path d="M0-22Q4-4 22 0Q4 4 0 22Q-4 4-22 0Q-4-4 0-22Z" fill="#F46E9D"/>
+    </g>
+  </g>
+</svg>

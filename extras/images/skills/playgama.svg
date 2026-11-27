@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">playgama</title>
+  <g transform="scale(2)">
+    <g transform="translate(23 44) scale(1.05 1.1517241379310346)">
+    <rect x="0" y="0" width="200" height="145" rx="18" fill="#253857"/>
+    <rect x="8" y="34" width="184" height="103" rx="9" fill="#EAF2FF"/>
+    <path d="M18 0H182Q200 0 200 18V34H0V18Q0 0 18 0Z" fill="#885AF5"/>
+    <circle cx="16" cy="17" r="4" fill="#FFFFFF"/>
+    <circle cx="29" cy="17" r="4" fill="#FFFFFF"/>
+    <circle cx="42" cy="17" r="4" fill="#FFFFFF"/>
+    </g>
+    <rect x="38" y="87" width="180" height="108" rx="10" fill="#D9C8FF"/>
+    <g transform="translate(128 143) scale(0.82)">
+    <path d="M-56-36H56Q76-36 84-12L96 31Q101 54 82 58Q72 61 61 48L38 24H-38L-61 48Q-72 61-82 58Q-101 54-96 31L-84-12Q-76-36-56-36Z" fill="#885AF5"/>
+    <path d="M-56-36H56Q76-36 84-12L90 12H-90L-84-12Q-76-36-56-36Z" fill="#C3ADFF"/>
+    <path d="M-49-15v32M-65 1h32" fill="none" stroke="#253857" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="48" cy="-10" r="8" fill="#FFD36A"/>
+    <circle cx="65" cy="7" r="8" fill="#68E2BC"/>
+    <rect x="-12" y="1" width="24" height="7" rx="4" fill="#FFFFFF"/>
+    </g>
+    <g transform="translate(197 98) scale(0.65)">
+    <path d="M0-22Q4-4 22 0Q4 4 0 22Q-4 4-22 0Q-4-4 0-22Z" fill="#FFD36A"/>
+    </g>
+    <g transform="translate(54 97) scale(0.47)">
+    <path d="M0-22Q4-4 22 0Q4 4 0 22Q-4 4-22 0Q-4-4 0-22Z" fill="#68E2BC"/>
+    </g>
+  </g>
+</svg>

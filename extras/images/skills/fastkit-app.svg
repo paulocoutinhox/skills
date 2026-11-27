@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">fastkit-app</title>
+  <g transform="scale(2)">
+    <g transform="translate(21 47) scale(1.07 1.1310344827586207)">
+    <rect x="0" y="0" width="200" height="145" rx="18" fill="#253857"/>
+    <rect x="8" y="34" width="184" height="103" rx="9" fill="#EAF2FF"/>
+    <path d="M18 0H182Q200 0 200 18V34H0V18Q0 0 18 0Z" fill="#397AF5"/>
+    <circle cx="16" cy="17" r="4" fill="#FFFFFF"/>
+    <circle cx="29" cy="17" r="4" fill="#FFFFFF"/>
+    <circle cx="42" cy="17" r="4" fill="#FFFFFF"/>
+    </g>
+    <rect x="36" y="87" width="46" height="106" rx="7" fill="#66C9FF"/>
+    <rect x="44" y="100" width="29" height="7" rx="4" fill="#FFFFFF"/>
+    <rect x="44" y="119" width="29" height="7" rx="4" fill="#FFFFFF"/>
+    <rect x="44" y="138" width="22" height="7" rx="4" fill="#FFFFFF"/>
+    <rect x="92" y="89" width="53" height="39" rx="8" fill="#C3ADFF"/>
+    <rect x="152" y="89" width="62" height="39" rx="8" fill="#68E2BC"/>
+    <rect x="92" y="136" width="122" height="57" rx="8" fill="#FFFFFF"/>
+    <path d="M161 79l-44 72h31l-12 44 58-77h-35Z" fill="#FF9C4A"/>
+    <path d="M161 79l-2 39h35Z" fill="#FFD36A"/>
+  </g>
+</svg>

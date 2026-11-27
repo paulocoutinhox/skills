@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">react-app</title>
+  <g transform="scale(2)">
+    <ellipse cx="128" cy="128" rx="96" ry="39" fill="none" stroke="#397AF5" stroke-width="12" transform="rotate(0 128 128)"/>
+    <ellipse cx="128" cy="128" rx="96" ry="39" fill="none" stroke="#0CB9B0" stroke-width="12" transform="rotate(60 128 128)"/>
+    <ellipse cx="128" cy="128" rx="96" ry="39" fill="none" stroke="#885AF5" stroke-width="12" transform="rotate(120 128 128)"/>
+    <circle cx="128" cy="128" r="19" fill="#66C9FF"/>
+    <circle cx="128" cy="128" r="8" fill="#FFFFFF"/>
+  </g>
+</svg>

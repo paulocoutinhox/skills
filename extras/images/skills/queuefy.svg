@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">queuefy</title>
+  <g transform="scale(2)">
+    <path d="M49 85V63Q49 51 61 51H195Q207 51 207 63V85" fill="none" stroke="#885AF5" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M191 76l16 18 16-18Z" fill="#885AF5"/>
+    <path d="M207 171V193Q207 205 195 205H61Q49 205 49 193V171" fill="none" stroke="#0CB9B0" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M33 180l16-18 16 18Z" fill="#0CB9B0"/>
+    <rect x="23" y="101" width="53" height="53" rx="13" fill="#397AF5"/>
+    <rect x="101" y="101" width="53" height="53" rx="13" fill="#885AF5"/>
+    <rect x="179" y="101" width="53" height="53" rx="13" fill="#0CB9B0"/>
+    <path d="M81 128h15M159 128h15" fill="none" stroke="#253857" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="49" cy="127" r="10" fill="#66C9FF"/>
+    <circle cx="127" cy="127" r="10" fill="#C3ADFF"/>
+    <path d="M192 127l10 10 15-19" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

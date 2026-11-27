@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">vue-app</title>
+  <g transform="scale(2)">
+    <path d="M23 52H70L128 151L186 52H233L128 221Z" fill="#36C982"/>
+    <path d="M70 52H103L128 95L153 52H186L128 151Z" fill="#253857"/>
+    <path d="M23 52H70L128 151V221Z" fill="#0CB9B0"/>
+    <g transform="translate(213 139) scale(0.7)">
+    <path d="M0-22Q4-4 22 0Q4 4 0 22Q-4 4-22 0Q-4-4 0-22Z" fill="#FFD36A"/>
+    </g>
+    <circle cx="47" cy="169" r="6" fill="#68E2BC"/>
+  </g>
+</svg>

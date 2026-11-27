@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">revenuecat</title>
+  <g transform="scale(2)">
+    <path d="M52 105V48l55 31h42l55-31v57q23 20 23 56 0 59-99 59T29 161q0-36 23-56Z" fill="#F45F66"/>
+    <path d="M64 67l29 19-29 12ZM192 67l-29 19 29 12Z" fill="#F46E9D"/>
+    <path d="M46 164q21 45 82 45t82-45q-18-24-41-24-25 0-41 15-16-15-41-15-23 0-41 24Z" fill="#FFFFFF"/>
+    <circle cx="88" cy="129" r="8" fill="#253857"/>
+    <circle cx="168" cy="129" r="8" fill="#253857"/>
+    <path d="M119 159h18l-9 10Z" fill="#253857"/>
+    <path d="M128 168v8m-11 0q11 9 22 0" fill="none" stroke="#253857" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="208" cy="54" r="28" fill="#FFD36A"/>
+    <path d="M196 65l8-8 7 3 10-14" fill="none" stroke="#FF9C4A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

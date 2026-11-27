@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">code-developer</title>
+  <g transform="scale(2)">
+    <rect x="22" y="46" width="212" height="151" rx="21" fill="#253857"/>
+    <path d="M43 46H213Q234 46 234 67V78H22V67Q22 46 43 46Z" fill="#397AF5"/>
+    <circle cx="39" cy="62" r="5" fill="#FFFFFF"/>
+    <circle cx="55" cy="62" r="5" fill="#66C9FF"/>
+    <circle cx="71" cy="62" r="5" fill="#68E2BC"/>
+    <g transform="translate(128 136) scale(1.12)">
+    <path d="M-30-19-50 0l20 19" fill="none" stroke="#66C9FF" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M30-19 50 0 30 19" fill="none" stroke="#68E2BC" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M11-29-11 29" fill="none" stroke="#F46E9D" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <rect x="90" y="209" width="76" height="10" rx="5" fill="#8AA6C8"/>
+    <g transform="translate(217 185) scale(0.75)">
+    <path d="M0-22Q4-4 22 0Q4 4 0 22Q-4 4-22 0Q-4-4 0-22Z" fill="#FFD36A"/>
+    </g>
+  </g>
+</svg>

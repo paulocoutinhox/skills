@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">security-audit</title>
+  <g transform="scale(2)">
+    <path d="M128 26q42 27 91 36v64q0 66-91 106Q37 192 37 126V62q49-9 91-36Z" fill="#397AF5"/>
+    <path d="M128 26q42 27 91 36v64q0 66-91 106Z" fill="#0CB9B0"/>
+    <path d="M128 49q30 19 66 28v49q0 49-66 80-66-31-66-80V77q36-9 66-28Z" fill="#66C9FF"/>
+    <rect x="92" y="112" width="72" height="59" rx="13" fill="#253857"/>
+    <path d="M106 112V96a22 22 0 0 1 44 0v16" fill="none" stroke="#253857" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="128" cy="135" r="8" fill="#FFD36A"/>
+    <rect x="124" y="135" width="8" height="16" rx="4" fill="#FFD36A"/>
+    <g transform="translate(207 64) scale(0.65)">
+    <path d="M0-22Q4-4 22 0Q4 4 0 22Q-4 4-22 0Q-4-4 0-22Z" fill="#FFD36A"/>
+    </g>
+  </g>
+</svg>

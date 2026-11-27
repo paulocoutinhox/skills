@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">haylen-app</title>
+  <g transform="scale(2)">
+    <path d="M30 157l98-121 98 121-32 40H62Z" fill="#397AF5"/>
+    <path d="M128 36l98 121-98-48Z" fill="#66C9FF"/>
+    <path d="M128 109l98 48-32 40h-66Z" fill="#885AF5"/>
+    <g transform="translate(128 147) scale(0.86)">
+    <path d="M-56-36H56Q76-36 84-12L96 31Q101 54 82 58Q72 61 61 48L38 24H-38L-61 48Q-72 61-82 58Q-101 54-96 31L-84-12Q-76-36-56-36Z" fill="#885AF5"/>
+    <path d="M-56-36H56Q76-36 84-12L90 12H-90L-84-12Q-76-36-56-36Z" fill="#C3ADFF"/>
+    <path d="M-49-15v32M-65 1h32" fill="none" stroke="#253857" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="48" cy="-10" r="8" fill="#FFD36A"/>
+    <circle cx="65" cy="7" r="8" fill="#68E2BC"/>
+    <rect x="-12" y="1" width="24" height="7" rx="4" fill="#FFFFFF"/>
+    </g>
+    <g transform="translate(194 65) scale(0.65)">
+    <path d="M0-22Q4-4 22 0Q4 4 0 22Q-4 4-22 0Q-4-4 0-22Z" fill="#FFD36A"/>
+    </g>
+  </g>
+</svg>

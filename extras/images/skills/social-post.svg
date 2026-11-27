@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">social-post</title>
+  <g transform="scale(2)">
+    <path d="M37 58h146q19 0 19 19v79q0 19-19 19h-68l-43 34v-34H37q-19 0-19-19V77q0-19 19-19Z" fill="#397AF5"/>
+    <rect x="37" y="80" width="92" height="12" rx="6" fill="#66C9FF"/>
+    <rect x="37" y="104" width="117" height="9" rx="5" fill="#FFFFFF"/>
+    <rect x="37" y="122" width="83" height="9" rx="5" fill="#FFFFFF"/>
+    <path d="M155 124h62q19 0 19 19v37q0 19-19 19h-12v21l-27-21h-23q-19 0-19-19v-37q0-19 19-19Z" fill="#F46E9D"/>
+    <path d="M186 151q-16-20-28-4-9 14 28 35 37-21 28-35-12-16-28 4Z" fill="#FFFFFF"/>
+    <g transform="translate(208 47) scale(0.7)">
+    <path d="M0-22Q4-4 22 0Q4 4 0 22Q-4 4-22 0Q-4-4 0-22Z" fill="#FFD36A"/>
+    </g>
+  </g>
+</svg>

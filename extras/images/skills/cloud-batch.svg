@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">cloud-batch</title>
+  <g transform="scale(2)">
+    <path d="M55 133C14 133 17 72 56 68c9-42 65-53 89-18 34-10 63 12 63 45 33 11 24 43-8 43H55Z" fill="#66C9FF"/>
+    <path d="M55 133c-29 0-42-27-29-45 5 18 17 26 38 26h130q19 0 23-11c13 20-2 35-17 35H55Z" fill="#397AF5"/>
+    <path d="M128 139v24M58 163h140M58 163v18M128 163v18M198 163v18" fill="none" stroke="#253857" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="30" y="180" width="56" height="36" rx="8" fill="#885AF5"/>
+    <rect x="100" y="180" width="56" height="36" rx="8" fill="#0CB9B0"/>
+    <rect x="170" y="180" width="56" height="36" rx="8" fill="#FF9C4A"/>
+    <rect x="40" y="189" width="27" height="5" rx="3" fill="#FFFFFF"/>
+    <rect x="110" y="189" width="27" height="5" rx="3" fill="#FFFFFF"/>
+    <rect x="180" y="189" width="27" height="5" rx="3" fill="#FFFFFF"/>
+    <circle cx="72" cy="203" r="4" fill="#C3ADFF"/>
+    <circle cx="142" cy="203" r="4" fill="#68E2BC"/>
+    <circle cx="212" cy="203" r="4" fill="#FFD36A"/>
+    <g transform="translate(129 82) scale(0.92)">
+    <path d="M0-22Q4-4 22 0Q4 4 0 22Q-4 4-22 0Q-4-4 0-22Z" fill="#FFFFFF"/>
+    </g>
+  </g>
+</svg>

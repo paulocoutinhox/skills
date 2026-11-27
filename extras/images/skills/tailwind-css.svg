@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">tailwind-css</title>
+  <g transform="scale(2)">
+    <path d="M24 108Q43 53 90 53Q119 53 143 83Q167 112 198 84Q188 139 144 139Q114 139 89 110Q62 81 24 108Z" fill="#66C9FF"/>
+    <path d="M58 166Q77 111 124 111Q153 111 177 141Q201 170 232 142Q222 197 178 197Q148 197 123 168Q96 139 58 166Z" fill="#0CB9B0"/>
+    <g transform="translate(207 52) scale(0.65)">
+    <path d="M0-22Q4-4 22 0Q4 4 0 22Q-4 4-22 0Q-4-4 0-22Z" fill="#397AF5"/>
+    </g>
+  </g>
+</svg>

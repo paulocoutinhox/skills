@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">npm-library</title>
+  <g transform="scale(2)">
+    <g transform="translate(128 112) scale(1.16)">
+    <path d="M0-67 78-27 0 14-78-27Z" fill="#FF9AA1"/>
+    <path d="M-78-27 0 14V88L-78 47Z" fill="#F45F66"/>
+    <path d="M78-27 0 14V88L78 47Z" fill="#CB4158"/>
+    <path d="M-38-48 40-7 21 3-57-38Z" fill="#FFFFFF" opacity=".65"/>
+    </g>
+    <path d="M47 121l81 43v38l-81-43Z" fill="#FFFFFF"/>
+    <path d="M57 132l61 32v24l-12-7v-15l-13-7v16l-12-7v-16l-12-6v16l-12-7Z" fill="#F45F66"/>
+    <g transform="translate(211 55) scale(0.75)">
+    <path d="M0-22Q4-4 22 0Q4 4 0 22Q-4 4-22 0Q-4-4 0-22Z" fill="#FFD36A"/>
+    </g>
+  </g>
+</svg>

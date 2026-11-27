@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">editor-config</title>
+  <g transform="scale(2)">
+    <g transform="translate(46 26) scale(1.4 1.4071428571428573)">
+    <path d="M0 0H68L100 32V128Q100 140 88 140H12Q0 140 0 128Z" fill="#EAF2FF"/>
+    <path d="M68 0V24Q68 32 76 32H100Z" fill="#66C9FF"/>
+    <rect x="17" y="53" width="65" height="8" rx="4" fill="#8AA6C8"/>
+    <rect x="17" y="72" width="53" height="8" rx="4" fill="#8AA6C8"/>
+    <rect x="17" y="91" width="59" height="8" rx="4" fill="#8AA6C8"/>
+    </g>
+    <rect x="66" y="92" width="100" height="10" rx="5" fill="#397AF5"/>
+    <rect x="66" y="127" width="100" height="10" rx="5" fill="#885AF5"/>
+    <rect x="66" y="162" width="100" height="10" rx="5" fill="#0CB9B0"/>
+    <circle cx="102" cy="97" r="13" fill="#66C9FF"/>
+    <circle cx="142" cy="132" r="13" fill="#C3ADFF"/>
+    <circle cx="87" cy="167" r="13" fill="#68E2BC"/>
+    <circle cx="186" cy="174" r="35" fill="#FF9C4A"/>
+    <path d="M186 145l9 12 15-1 1 15 12 9-9 12-15-3-9 13-12-9-15 2-3-15-12-8 9-12 15 1Z" fill="#FFD36A"/>
+    <circle cx="186" cy="174" r="12" fill="#FFFFFF"/>
+  </g>
+</svg>

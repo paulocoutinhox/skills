@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">android-app-testing</title>
+  <g transform="scale(2)">
+    <g transform="translate(41 25) scale(1.3928571428571428 1.3986486486486487)">
+    <rect x="0" y="0" width="84" height="148" rx="17" fill="#253857"/>
+    <rect x="7" y="9" width="70" height="130" rx="12" fill="#36C982"/>
+    <rect x="27" y="13" width="30" height="5" rx="3" fill="#253857"/>
+    <rect x="30" y="130" width="24" height="4" rx="2" fill="#FFFFFF"/>
+    </g>
+    <path d="M59 109Q59 80 99 80Q139 80 139 109v26H59Z" fill="#68E2BC"/>
+    <path d="M75 84l-8-14M123 84l8-14" fill="none" stroke="#68E2BC" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="80" cy="102" r="4" fill="#253857"/>
+    <circle cx="118" cy="102" r="4" fill="#253857"/>
+    <rect x="68" y="141" width="62" height="14" rx="6" fill="#FFFFFF"/>
+    <g transform="translate(183 167) scale(1.45)">
+    <circle cx="0" cy="0" r="30" fill="#397AF5"/>
+    <path d="M-13 0l9 10 18-21" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <g transform="translate(191 66) scale(0.66)">
+    <path d="M0-22Q4-4 22 0Q4 4 0 22Q-4 4-22 0Q-4-4 0-22Z" fill="#FFD36A"/>
+    </g>
+  </g>
+</svg>

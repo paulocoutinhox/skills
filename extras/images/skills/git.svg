@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">git</title>
+  <g transform="scale(2)">
+    <g transform="rotate(45 128 128)">
+    <rect x="58" y="58" width="140" height="140" rx="23" fill="#FF9C4A"/>
+    </g>
+    <path d="M93 75l65 65M93 75v104" fill="none" stroke="#FFFFFF" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="93" cy="75" r="15" fill="#FFFFFF"/>
+    <circle cx="93" cy="179" r="15" fill="#FFFFFF"/>
+    <circle cx="158" cy="140" r="15" fill="#FFFFFF"/>
+    <circle cx="93" cy="75" r="6" fill="#F45F66"/>
+    <circle cx="93" cy="179" r="6" fill="#F45F66"/>
+    <circle cx="158" cy="140" r="6" fill="#F45F66"/>
+    <g transform="translate(201 64) scale(0.6)">
+    <path d="M0-22Q4-4 22 0Q4 4 0 22Q-4 4-22 0Q-4-4 0-22Z" fill="#FFD36A"/>
+    </g>
+  </g>
+</svg>
